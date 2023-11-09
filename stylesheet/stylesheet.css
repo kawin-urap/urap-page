@@ -35,3 +35,18 @@
     text-align: center;
   }
 
+  .navbar-nav .nav-link.active{
+    background-color: orange;
+    border-radius: 5%;
+  }
+
+  .nav-item:hover{
+    text-decoration-line: underline;
+    border-radius: 5%;
+    color: white;
+    font-weight: bolder;
+  }
+  
+
+  
+
